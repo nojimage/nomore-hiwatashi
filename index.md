@@ -86,14 +86,20 @@ Description: あなたは樋渡啓祐を佐賀県知事に選びますか？
 
 ## 政治姿勢・発言
 
-### 反省しない {.lead}
-
-### あはは、まにうけてる {.lead}
-
-### ひまじんうんこ {.lead}
-
 - [樋渡啓祐氏発言引用集 - nantoka.com](https://www.nantoka.com/wiki/wiki.cgi/takeoproblem?page=%C8%F5%C5%CF%B7%BC%CD%B4%BB%E1%C8%AF%B8%C0%B0%FA%CD%D1%BD%B8)
 - [樋渡啓祐 - Wikiquote](http://ja.wikiquote.org/wiki/%E6%A8%8B%E6%B8%A1%E5%95%93%E7%A5%90)
+
+## 佐賀県民の方へこのサイトを共有してください
+
+<p class="lead"><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fnomore-hiwatashi.com&t=" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL));
+	   return false;"><i class="fa fa-facebook-square fa-lg"></i> Facebookで共有</a></p>
+<p class="lead"><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fnomore-hiwatashi.com&text=:%20http%3A%2F%2Fnomore-hiwatashi.com" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20' + encodeURIComponent(document.URL));
+	   return false;"><i class="fa fa-twitter fa-lg"></i> Twitterで共有</a></p>
+<p class="lead"><a href="https://plus.google.com/share?url=http%3A%2F%2Fnomore-hiwatashi.com" target="_blank" title="Share on Google+" onclick="window.open('https://plus.google.com/share?url=' + encodeURIComponent(document.URL));
+	   return false;"><i class="fa fa-google-plus fa-lg"></i> Google+で共有</a></p>
+<p class="lead"><a href="mailto:?subject=&body=:%20http%3A%2F%2Fnomore-hiwatashi.com" target="_blank" title="Email" onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' + encodeURIComponent(document.URL));
+	   return false;"><i class="fa fa-envelope-o fa-lg"></i> Emailで共有</a></p>
+
 
 ## 参考情報
 
