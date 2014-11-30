@@ -91,6 +91,8 @@ Description: あなたは樋渡啓祐を佐賀県知事に選びますか？
 
 ## 佐賀県民の方へこのサイトを共有してください
 
+特に高齢者の方、普段ネットに触れる機会の少ない方は樋渡啓祐がどういう人物か、TVや新聞などマスメディアが伝える印象でしか知らないと思います。私は、多くの方に樋渡啓祐について疑問を持ってもらい、少しでもいいから調べてもらいたいと思っています。
+
 <p class="lead"><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fnomore-hiwatashi.com&t=" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL));
 	   return false;"><i class="fa fa-facebook-square fa-lg"></i> Facebookで共有</a></p>
 <p class="lead"><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fnomore-hiwatashi.com&text=:%20http%3A%2F%2Fnomore-hiwatashi.com" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20' + encodeURIComponent(document.URL));

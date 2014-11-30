@@ -71,24 +71,6 @@ Author: nojimage
 - 来館者推移
 - 県外業者
 
------
-## 武雄市図書館・歴史資料館のTUTAYA化
-
-- 2012年5月に市議会の承認を得ないまま株式会社カルチュア・コンビニエンス・クラブ(CCC, TUTAYA運営会社)を指定管理者にすると発表
-- 議会での正式決定までの間、公式に市民へ向けて行われた説明会は2度のみ
-- 改装費を従来の説明から倍増させた予算案を提出し議会で可決  
-  （市議会等では2〜2.5億円と説明していたが、実際には4.5億円の予算が提出。
-
-このほか、武雄市図書館については数多くの問題点が指摘されています。
-
-- [武雄市図書館の問題について意見をまとめてみました: さまよう金の髭](http://goldenhige.cocolog-nifty.com/blog/2013/07/post-8a95.html)
-- [武雄市図書館 - Wikipedia](http://ja.wikipedia.org/wiki/%E6%AD%A6%E9%9B%84%E5%B8%82%E5%9B%B3%E6%9B%B8%E9%A4%A8)
-- [ノート:武雄市図書館 - Wikipedia](http://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%83%88:%E6%AD%A6%E9%9B%84%E5%B8%82%E5%9B%B3%E6%9B%B8%E9%A4%A8)
-- [武雄市図書館・歴史資料館を学習する市民の会](http://takeolib.sblo.jp/)
-- [図書館の自由と武雄市図書館と図書館戦争のようなもの #takeolibrary - トップページ](http://www32.atwiki.jp/librariesfreedom/)
-- [03:武雄市の新図書館構想 - 佐賀県武雄市の問題について：takeoproblem](https://sites.google.com/site/takeoproblem/library/03-xin-tu-shu-guan-gou-xiang)
-- [03:武雄市図書館 - 佐賀県武雄市の問題について：takeoproblem](https://sites.google.com/site/takeoproblem/library)
-
 ----
 
 ### 教育改革
