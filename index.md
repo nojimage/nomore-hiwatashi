@@ -3,9 +3,9 @@ Title: Home
 Description: あなたは樋渡啓祐を佐賀県知事に選びますか？
 */
 
-# TVや新聞で改革派市長として持ち上げられることの多い樋渡啓祐ですが、本当に佐賀県知事としてふさわしい人物でしょうか。 {.lead}
+# TVや新聞で改革派市長として持ち上げられることの多い樋渡啓祐ですが、佐賀県知事としてふさわしい人物でしょうか。 {.lead}
 
-<p class="lead"><a href="#summary" class="btn btn-danger btn-lg">実際のところ、樋渡啓祐は…</a></p>
+<p class="lead text-center"><a href="#summary" class="btn btn-danger btn-lg">実際のところ樋渡啓祐は…</a></p>
 
 ## なぜ、樋渡啓祐は問題視されているの？
 
@@ -156,7 +156,7 @@ Description: あなたは樋渡啓祐を佐賀県知事に選びますか？
 
 -----
 
-## 実際のところ、樋渡啓祐は… {#summary}
+## 実際のところ樋渡啓祐は… {#summary}
 
 <p class="lead">既得権益と闘う首長といわれていますが、<strong>実際は既得権益のすげ替えを行っているだけです。</strong></p>
 
