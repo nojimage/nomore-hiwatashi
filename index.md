@@ -5,7 +5,7 @@ Description: あなたは樋渡啓祐を佐賀県知事に選びますか？
 
 # TVや新聞で改革派市長として持ち上げられることの多い樋渡啓祐ですが、佐賀県知事としてふさわしい人物でしょうか。 {.lead}
 
-<p class="lead text-center"><a href="#summary" class="btn btn-danger btn-lg">実際のところ樋渡啓祐は…</a></p>
+<p class="lead text-center"><a href="#summary" class="btn btn-danger btn-lg hidden-print">実際のところ樋渡啓祐は…</a></p>
 
 ## なぜ、樋渡啓祐は問題視されているの？
 
@@ -14,7 +14,7 @@ Description: あなたは樋渡啓祐を佐賀県知事に選びますか？
 <ul class="lead">
 <li>事前に<strong>住民へ説明をしない</strong></li>
 <li><strong>公募</strong>によらず、<strong>県外業者</strong>を連れてくる</li>
-<li><strong>計画と</strong>と<strong>効果測定</strong>が<strong>ずさん</strong></li>
+<li><strong>計画</strong>と<strong>効果測定</strong>が<strong>ずさん</strong></li>
 <li><strong>批判</strong>に対して開き直る・<strong>暴言</strong>を吐く</li>
 </ul>
 
@@ -47,13 +47,13 @@ Description: あなたは樋渡啓祐を佐賀県知事に選びますか？
 
 ### 「計画と効果測定がずさん」なのは、どうしてダメなの？ {.lead}
 
-(TODO: ちょっと書ききれないので書き直すか削除するか)
-
 働いたことのある人であれば、達成すべき目標と計画を決めて仕事をしていると思います。しかし、樋渡啓祐は「**総合計画なんて必要ない**」[^2]と言いました。計画せずにどうやって施策を進め、その効果を評価するのでしょうか。計画をきちんと決めないと、当初の目標とかけ離れた結果が生じることになります。
 
-「**反省しない**」これは樋渡啓祐の著書のタイトルです。(TODO:)
+「**反省しない**」[^11][^12] これは樋渡啓祐の著書のタイトルです。行政が施策に対して反省や検証をしなくてもいいのでしょうか。適切な効果測定をおこない検証ができれば、たとえ失敗したとしても次に繋げることができますが、検証しなければ失敗を次に活かすことができません。施策のために払った税金をドブに捨てたのと同じことになります。
 
-適切な効果測定をおこない検証ができれば、失敗したとしても次に繋げることができますが、検証できなければ失敗を次に活かすことができません。
+[^11]: [Amazon.co.jp： DVD付 反省しない。 (経営): 樋渡 啓祐: 本](http://www.amazon.co.jp/DVD%E4%BB%98-%E5%8F%8D%E7%9C%81%E3%81%97%E3%81%AA%E3%81%84%E3%80%82-%E7%B5%8C%E5%96%B6-%E6%A8%8B%E6%B8%A1-%E5%95%93%E7%A5%90/dp/4046005874) （[カスタマーレビューもご覧ください。](http://www.amazon.co.jp/product-reviews/4046005874)）
+
+[^12]: **反省しない**については参考にこちらもご覧ください。 [反省しない | パーソナリティ障害のすべて](http://personality-obstacle.com/narcissism-condition/reflection.html)
 
 
 ### 「批判に対して開き直る・暴言を吐く」のは、どうしてダメなの？ {.lead}
@@ -181,15 +181,18 @@ Description: あなたは樋渡啓祐を佐賀県知事に選びますか？
 
 高齢者の方、普段ネットに触れる機会の少ない方は樋渡啓祐がどういう人物か、TVや新聞などマスメディアが伝える印象でしか知らない方が多くいます。私は、多くの方に樋渡啓祐について疑問を持ってもらい、少しでもいいから調べてもらいたいと思っています。
 
+<div class="hidden-print">
+<p class="lead"><a href="summary.pdf"><i class="fa fa-file"></i> 要約版印刷用データをダウンロード</a></p>
+<p class="lead"><a href="#" onclick="print();return false;"><i class="fa fa-print"></i> このページを印刷</a></p>
+<p class="lead"><a href="mailto:?subject=&body=:%20http%3A%2F%2Fnomore-hiwatashi.com" target="_blank" title="Email" onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' + encodeURIComponent(document.URL));
+	   return false;"><i class="fa fa-envelope-o fa-lg"></i> Emailで共有</a></p>
 <p class="lead"><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fnomore-hiwatashi.com&t=" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL));
 	   return false;"><i class="fa fa-facebook-square fa-lg"></i> Facebookで共有</a></p>
 <p class="lead"><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fnomore-hiwatashi.com&text=:%20http%3A%2F%2Fnomore-hiwatashi.com" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20' + encodeURIComponent(document.URL));
 	   return false;"><i class="fa fa-twitter fa-lg"></i> Twitterで共有</a></p>
 <p class="lead"><a href="https://plus.google.com/share?url=http%3A%2F%2Fnomore-hiwatashi.com" target="_blank" title="Share on Google+" onclick="window.open('https://plus.google.com/share?url=' + encodeURIComponent(document.URL));
 	   return false;"><i class="fa fa-google-plus fa-lg"></i> Google+で共有</a></p>
-<p class="lead"><a href="mailto:?subject=&body=:%20http%3A%2F%2Fnomore-hiwatashi.com" target="_blank" title="Email" onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' + encodeURIComponent(document.URL));
-	   return false;"><i class="fa fa-envelope-o fa-lg"></i> Emailで共有</a></p>
-
+</div>
 
 ## 参考情報
 
@@ -211,7 +214,8 @@ Description: あなたは樋渡啓祐を佐賀県知事に選びますか？
 ### 樋渡啓祐自身が更新しているサイト
 - [武雄市長物語](http://hiwa1118.exblog.jp/ "武雄市長物語")
 - [樋渡 啓祐 | Facebook](https://www.facebook.com/keisuke.hiwatashi.9)
-- [樋渡啓祐(@hiwa1118)さん | Twitter](https://twitter.com/hiwa1118) (※知事選出馬に向け削除されました)
+- [樋渡啓祐(@hiwa1118)さん | Twitter](https://twitter.com/hiwa1118) (※知事選出馬に向け削除されました)   
+  [『武雄市長 日本ツイッター学会長　樋渡啓祐 (hiwa111...』 の人気エントリー - はてなブックマーク](http://b.hatena.ne.jp/entrylist?sort=count&url=http%3A%2F%2Ftwitter.com%2Fhiwa1118) （※注目の発言がわかります）
 
 ### 武雄市に関する情報
 - [佐賀県武雄市の問題について：takeoproblem](https://sites.google.com/site/takeoproblem/)
