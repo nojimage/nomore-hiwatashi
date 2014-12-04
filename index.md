@@ -5,7 +5,7 @@ Description: あなたは樋渡啓祐を佐賀県知事に選びますか？
 
 # TVや新聞で改革派市長として持ち上げられることの多い樋渡啓祐ですが、佐賀県知事としてふさわしい人物でしょうか。 {.lead}
 
-<p class="lead text-center"><a href="#summary" class="btn btn-danger btn-lg">実際のところ樋渡啓祐は…</a></p>
+<p class="lead text-center"><a href="#summary" class="btn btn-danger btn-lg hidden-print">実際のところ樋渡啓祐は…</a></p>
 
 ## なぜ、樋渡啓祐は問題視されているの？
 
@@ -14,7 +14,7 @@ Description: あなたは樋渡啓祐を佐賀県知事に選びますか？
 <ul class="lead">
 <li>事前に<strong>住民へ説明をしない</strong></li>
 <li><strong>公募</strong>によらず、<strong>県外業者</strong>を連れてくる</li>
-<li><strong>計画と</strong>と<strong>効果測定</strong>が<strong>ずさん</strong></li>
+<li><strong>計画</strong>と<strong>効果測定</strong>が<strong>ずさん</strong></li>
 <li><strong>批判</strong>に対して開き直る・<strong>暴言</strong>を吐く</li>
 </ul>
 
@@ -47,11 +47,13 @@ Description: あなたは樋渡啓祐を佐賀県知事に選びますか？
 
 ### 「計画と効果測定がずさん」なのは、どうしてダメなの？ {.lead}
 
-(TODO: ちょっと書ききれないので書き直すか削除するか)
-
 働いたことのある人であれば、達成すべき目標と計画を決めて仕事をしていると思います。しかし、樋渡啓祐は「**総合計画なんて必要ない**」[^2]と言いました。計画せずにどうやって施策を進め、その効果を評価するのでしょうか。計画をきちんと決めないと、当初の目標とかけ離れた結果が生じることになります。
 
-適切な効果測定をおこない検証ができれば、失敗したとしても次に繋げることができますが、検証できなければ失敗を次に活かすことができません。
+「**反省しない**」[^11][^12] これは樋渡啓祐の著書のタイトルです。行政が施策に対して反省や検証をしなくてもいいのでしょうか。適切な効果測定をおこない検証ができれば、たとえ失敗したとしても次に繋げることができますが、検証しなければ失敗を次に活かすことができません。施策のために払った税金をドブに捨てたのと同じことになります。
+
+[^11]: [Amazon.co.jp： DVD付 反省しない。 (経営): 樋渡 啓祐: 本](http://www.amazon.co.jp/DVD%E4%BB%98-%E5%8F%8D%E7%9C%81%E3%81%97%E3%81%AA%E3%81%84%E3%80%82-%E7%B5%8C%E5%96%B6-%E6%A8%8B%E6%B8%A1-%E5%95%93%E7%A5%90/dp/4046005874) （[カスタマーレビューもご覧ください。](http://www.amazon.co.jp/product-reviews/4046005874)）
+
+[^12]: **反省しない**については参考にこちらもご覧ください。 [反省しない | パーソナリティ障害のすべて](http://personality-obstacle.com/narcissism-condition/reflection.html)
 
 
 ### 「批判に対して開き直る・暴言を吐く」のは、どうしてダメなの？ {.lead}
@@ -60,11 +62,12 @@ Description: あなたは樋渡啓祐を佐賀県知事に選びますか？
 
 注目を集めて様々な意見を受け、より良いものを作り出す機会を自ら捨てています。このような態度では心ある人は離れ、周りには賛同する人か、利用して利益を得ようとする人間しか残らなくなります。
 
-さらに意見を述べた一般市民へ暴言を吐くなどの行動をしています。[^4]
+さらに意見を述べた一般市民へ暴言を吐くなどの行動をしています。
 
 「**君はゴキブリ以下**」「**あはは。真に受けてる。**」「**ひまじんうんこ**」[^5][^6][^7]これらは樋渡啓祐がツイッターやフェイスブック上で一般の方に向けて発した言葉です。
 
-[^4]: 数多くの暴言を行っていたツイッターアカウントは知事選に向けて削除されました。
+数多くの暴言を行っていたツイッターアカウントは佐賀県知事選に向けて削除しました。これからは**否定的な意見は排除**できるブログやフェイスブックで情報の発信を行っていくそうです。
+
 [^5]: [樋渡啓祐さんはTwitterを使っています: "今の君は、スネークどころかゴキブリ以下。スネークを進めるなんてまともじゃない。恥を知れ(^^ゞ RT @sakichan 誰かスネークスネーク / 2/6 武雄市長 樋渡 啓祐氏 講演会 "走りながら考え、常識をくつがえす" http://t.co/8o7LVvJb"](https://archive.today/RuGhQ)
 [^6]: [樋渡啓祐さんはTwitterを使っています: "あはは。真に受けてる。 RT @zonepotage RT @saronpasu: 「１００おくえんのべんちゃーきゃぴたるをつくるんだおー　すごいんだおー」ｂｙ けいすけくん RT @superunkman (cont) http://t.co/cOZlb2SZ"](https://archive.today/Fqm7N)
 [^7]: [武雄市の樋渡市長、ユーザーを「ひまじんうんこ」と侮辱。自ら市のガイドライン破る(篠原 修司) - 個人 - Yahoo!ニュース](http://bylines.news.yahoo.co.jp/shinoharashuji/20131231-00031166/)
@@ -72,6 +75,31 @@ Description: あなたは樋渡啓祐を佐賀県知事に選びますか？
 -----
 
 # それでは、武雄市におけるこれまでの施策をみてみましょう {.lead}
+
+## 武雄市図書館・歴史資料館のTSUTAYA化
+
+たしかに表向きは一見、オシャレな空間ができあがりました。しかし市民に知られていない裏側では…
+
+<ul class="lead">
+<li>2012年5月に市議会の承認を得ないままCCC(TSUTAYAの運営会社)を指定管理者にすると発表</li>
+<li>議会での正式決定までの間、公式に市民へ向けて行われた説明会は2度のみ<br />
+  <small>もちろん事前の説明などもなし。</li>
+<li> 改装費を従来の説明から倍増させた予算案を提出し議会で可決<br />
+  <small>（市議会等では2〜2.5億円と説明していたが、実際には4.5億円の予算が提出。</small></li>
+</ul>
+
+-----
+
+基本構想発表後、多くの方から様々な指摘がされましたが、その多くは無視されました。また、改装にあたって改装工事費と別にCCCへ「新図書館空間創出業務」として約1億4千万円の業務委託が行われていますが、未だにその内訳、詳細について明らかになっていません。
+
+武雄市図書館については数多くの問題点が指摘されて、たくさんの方々がまとめられています。
+
+- [武雄市図書館の問題について意見をまとめてみました: さまよう金の髭](http://goldenhige.cocolog-nifty.com/blog/2013/07/post-8a95.html)
+- [サーバ管理者日誌 シリーズ武雄市TSUTAYA図書館(22) - 武雄市図書館について頂いたメールへの返信](http://www.nantoka.com/~kei/diary/?20130611S1#20130504_TNC_NewsCUBE)
+- [武雄市図書館・歴史資料館を学習する市民の会](http://takeolib.sblo.jp/)
+- [図書館の自由と武雄市図書館と図書館戦争のようなもの #takeolibrary - トップページ](http://www32.atwiki.jp/librariesfreedom/)
+- [03:武雄市の新図書館構想 - 佐賀県武雄市の問題について：takeoproblem](https://sites.google.com/site/takeoproblem/library/03-xin-tu-shu-guan-gou-xiang)
+
 
 ## 官民一体型学校（花まる学習会との提携）
 
@@ -120,27 +148,6 @@ Description: あなたは樋渡啓祐を佐賀県知事に選びますか？
 - [武雄市 教育監任命までの経緯について - 突発非同期不連続](http://fmht7.hateblo.jp/entry/20130916/1379286330)
 - [鎌倉から武雄市へ：代田昭久氏 武雄市教育監人事について #たけお問題 - Togetterまとめ](http://togetter.com/li/564226)
 
-## 武雄市図書館・歴史資料館のTSUTAYA化
-
-<ul class="lead">
-<li>2012年5月に市議会の承認を得ないままCCC(TSUTAYAの運営会社)を指定管理者にすると発表</li>
-<li>議会での正式決定までの間、公式に市民へ向けて行われた説明会は2度のみ</li>
-<li> 改装費を従来の説明から倍増させた予算案を提出し議会で可決<br />
-  <small>（市議会等では2〜2.5億円と説明していたが、実際には4.5億円の予算が提出。</small></li>
-</ul>
-
------
-
-基本構想発表後、多くの方から様々な指摘がされましたが、その多くは無視されました。また、改装にあたって改装工事費と別にCCCへ「新図書館空間創出業務」として約1億4千万円の業務委託が行われていますが、未だにその内訳、詳細について明らかになっていません。
-
-武雄市図書館については数多くの問題点が指摘されて、たくさんの方々がまとめられています。
-
-- [武雄市図書館の問題について意見をまとめてみました: さまよう金の髭](http://goldenhige.cocolog-nifty.com/blog/2013/07/post-8a95.html)
-- [サーバ管理者日誌 シリーズ武雄市TSUTAYA図書館(22) - 武雄市図書館について頂いたメールへの返信](http://www.nantoka.com/~kei/diary/?20130611S1#20130504_TNC_NewsCUBE)
-- [武雄市図書館・歴史資料館を学習する市民の会](http://takeolib.sblo.jp/)
-- [図書館の自由と武雄市図書館と図書館戦争のようなもの #takeolibrary - トップページ](http://www32.atwiki.jp/librariesfreedom/)
-- [03:武雄市の新図書館構想 - 佐賀県武雄市の問題について：takeoproblem](https://sites.google.com/site/takeoproblem/library/03-xin-tu-shu-guan-gou-xiang)
-
 ## この他にも次の施策に批判が集まりました
 
 ### 武雄市民病院 民間委譲 {.lead}
@@ -174,15 +181,18 @@ Description: あなたは樋渡啓祐を佐賀県知事に選びますか？
 
 高齢者の方、普段ネットに触れる機会の少ない方は樋渡啓祐がどういう人物か、TVや新聞などマスメディアが伝える印象でしか知らない方が多くいます。私は、多くの方に樋渡啓祐について疑問を持ってもらい、少しでもいいから調べてもらいたいと思っています。
 
+<div class="hidden-print">
+<p class="lead"><a href="summary.pdf"><i class="fa fa-file"></i> 要約版印刷用データをダウンロード</a></p>
+<p class="lead"><a href="#" onclick="print();return false;"><i class="fa fa-print"></i> このページを印刷</a></p>
+<p class="lead"><a href="mailto:?subject=&body=:%20http%3A%2F%2Fnomore-hiwatashi.com" target="_blank" title="Email" onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' + encodeURIComponent(document.URL));
+	   return false;"><i class="fa fa-envelope-o fa-lg"></i> Emailで共有</a></p>
 <p class="lead"><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fnomore-hiwatashi.com&t=" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL));
 	   return false;"><i class="fa fa-facebook-square fa-lg"></i> Facebookで共有</a></p>
 <p class="lead"><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fnomore-hiwatashi.com&text=:%20http%3A%2F%2Fnomore-hiwatashi.com" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20' + encodeURIComponent(document.URL));
 	   return false;"><i class="fa fa-twitter fa-lg"></i> Twitterで共有</a></p>
 <p class="lead"><a href="https://plus.google.com/share?url=http%3A%2F%2Fnomore-hiwatashi.com" target="_blank" title="Share on Google+" onclick="window.open('https://plus.google.com/share?url=' + encodeURIComponent(document.URL));
 	   return false;"><i class="fa fa-google-plus fa-lg"></i> Google+で共有</a></p>
-<p class="lead"><a href="mailto:?subject=&body=:%20http%3A%2F%2Fnomore-hiwatashi.com" target="_blank" title="Email" onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' + encodeURIComponent(document.URL));
-	   return false;"><i class="fa fa-envelope-o fa-lg"></i> Emailで共有</a></p>
-
+</div>
 
 ## 参考情報
 
@@ -204,7 +214,8 @@ Description: あなたは樋渡啓祐を佐賀県知事に選びますか？
 ### 樋渡啓祐自身が更新しているサイト
 - [武雄市長物語](http://hiwa1118.exblog.jp/ "武雄市長物語")
 - [樋渡 啓祐 | Facebook](https://www.facebook.com/keisuke.hiwatashi.9)
-- [樋渡啓祐(@hiwa1118)さん | Twitter](https://twitter.com/hiwa1118) (※知事選出馬に向け削除されました)
+- [樋渡啓祐(@hiwa1118)さん | Twitter](https://twitter.com/hiwa1118) (※知事選出馬に向け削除されました)   
+  [『武雄市長 日本ツイッター学会長　樋渡啓祐 (hiwa111...』 の人気エントリー - はてなブックマーク](http://b.hatena.ne.jp/entrylist?sort=count&url=http%3A%2F%2Ftwitter.com%2Fhiwa1118) （※注目の発言がわかります）
 
 ### 武雄市に関する情報
 - [佐賀県武雄市の問題について：takeoproblem](https://sites.google.com/site/takeoproblem/)
