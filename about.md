@@ -1,6 +1,7 @@
 /*
 Title: このサイトについて
 Author: nojimage
+Robots: noindex,nofollow
 */
 
 # このサイトについて
