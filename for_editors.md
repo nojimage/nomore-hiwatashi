@@ -1,6 +1,9 @@
 /*
 Title: レイアウト
 Author: nojimage
+Description: meta descriptionを設定します
+Keywords: meta keywordsを設定します
+Jumbotron: Jumbotronのテキストです。
 */
 
 # 記事はMarkdown形式で記述します
