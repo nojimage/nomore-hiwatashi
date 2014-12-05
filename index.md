@@ -181,13 +181,14 @@ Jumbotron: 樋渡啓祐を佐賀県知事に選んで本当に大丈夫？
 
 ## 佐賀県民の方へこのサイトを共有してください
 
-高齢者の方、普段ネットに触れる機会の少ない方は樋渡啓祐がどういう人物か、TVや新聞などマスメディアが伝える印象でしか知らない方が多くいます。私は、多くの方に樋渡啓祐について疑問を持ってもらい、少しでもいいから調べてもらいたいと思っています。
+高齢者の方、普段ネットに触れる機会の少ない方は樋渡啓祐がどういう人物か、TVや新聞などマスメディアが伝える印象でしか知らない方が多くいます。私は、多くの方に樋渡啓祐について興味を持ってもらい、少しでもいいから調べてもらいたいと思っています。
 
 <div class="hidden-print">
-<p class="lead"><a href="summary.pdf"><i class="fa fa-file"></i> 要約版印刷用データをダウンロード</a></p>
+<p class="lead"><a href="assets/summary.pdf"><i class="fa fa-file"></i> 要約版(印刷用)をダウンロード</a></p>
 <p class="lead"><a href="#" onclick="print();return false;"><i class="fa fa-print"></i> このページを印刷</a></p>
-<p class="lead"><a href="mailto:?subject=&body=:%20http%3A%2F%2Fnomore-hiwatashi.com" target="_blank" title="Email" onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' + encodeURIComponent(document.URL));
+<!--<p class="lead"><a href="mailto:?subject=&body=:%20http%3A%2F%2Fnomore-hiwatashi.com" target="_blank" title="Email" onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' + encodeURIComponent(document.URL));
 	   return false;"><i class="fa fa-envelope-o fa-lg"></i> Emailで共有</a></p>
+-->
 <p class="lead"><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fnomore-hiwatashi.com&t=" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL));
 	   return false;"><i class="fa fa-facebook-square fa-lg"></i> Facebookで共有</a></p>
 <p class="lead"><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fnomore-hiwatashi.com&text=:%20http%3A%2F%2Fnomore-hiwatashi.com" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20' + encodeURIComponent(document.URL));
