@@ -197,6 +197,8 @@ Jumbotron: 樋渡啓祐を佐賀県知事に選んで本当に大丈夫？
 	   return false;"><i class="fa fa-google-plus fa-lg"></i> Google+で共有</a></p>
 </div>
 
+<p class="text-center">また、ホームページやブログなどをお持ちの方は、このサイトへリンクを張っていただけると喜びます。</p>
+
 ## 参考情報
 
 - [樋渡啓祐 - Wikipedia](http://ja.wikipedia.org/wiki/%E6%A8%8B%E6%B8%A1%E5%95%93%E7%A5%90)
