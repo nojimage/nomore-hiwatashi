@@ -14,7 +14,7 @@ Jumbotron: 樋渡啓祐を佐賀県知事に選んで本当に大丈夫？
 ### 樋渡啓祐の施策は、共通して次の点が批判されています。 {.lead}
 
 <ul class="lead">
-<li>事前に<strong>住民へ説明をしない</strong></li>
+<li>事前に<strong>住民へ充分な説明をしない</strong></li>
 <li><strong>公募</strong>によらず、<strong>県外業者</strong>を連れてくる</li>
 <li><strong>計画</strong>と<strong>効果測定</strong>が<strong>ずさん</strong></li>
 <li><strong>批判</strong>に対して開き直る・<strong>暴言</strong>を吐く</li>
@@ -24,7 +24,7 @@ Jumbotron: 樋渡啓祐を佐賀県知事に選んで本当に大丈夫？
 
 さまざまな批判がありますが、主に共通して批判されているのは上の4点です。
 
-### 「事前に住民へ説明をしない」のは、どうしてダメなの？ {.lead}
+### 「事前に住民へ充分な説明をしない」のは、どうしてダメなの？ {.lead}
 
 地方における行政は、**住民自治**の原則に基づき、その自治体の住民の意思と責任に基づいて行政を行うべきです。そのためには、地域住民に対して充分な説明を行い理解と協力を得ることが必要です。
 
@@ -185,7 +185,7 @@ Jumbotron: 樋渡啓祐を佐賀県知事に選んで本当に大丈夫？
 
 <div class="hidden-print">
 <p class="lead"><a href="assets/summary.pdf"><i class="fa fa-file"></i> 要約版(印刷用)をダウンロード</a></p>
-<p class="lead"><a href="#" onclick="print();return false;"><i class="fa fa-print"></i> このページを印刷</a></p>
+<p class="lead"><a href="#" onclick="print();return false;"><i class="fa fa-print fa-lg"></i> このページを印刷</a></p>
 <!--<p class="lead"><a href="mailto:?subject=&body=:%20http%3A%2F%2Fnomore-hiwatashi.com" target="_blank" title="Email" onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' + encodeURIComponent(document.URL));
 	   return false;"><i class="fa fa-envelope-o fa-lg"></i> Emailで共有</a></p>
 -->
