@@ -85,7 +85,7 @@ Jumbotron: 樋渡啓祐を佐賀県知事に選んで本当に大丈夫？
 <ul class="lead">
 <li>2012年5月に市議会の承認を得ないままCCC(TSUTAYAの運営会社)を指定管理者にすると発表</li>
 <li>議会での正式決定までの間、公式に市民へ向けて行われた説明会は2度のみ<br />
-  <small>もちろん事前の説明などもなし。</li>
+  <small>もちろん事前の説明などもなし。</small></li>
 <li> 改装費を従来の説明から倍増させた予算案を提出し議会で可決<br />
   <small>（市議会等では2〜2.5億円と説明していたが、実際には4.5億円の予算が提出。</small></li>
 </ul>
@@ -186,9 +186,6 @@ Jumbotron: 樋渡啓祐を佐賀県知事に選んで本当に大丈夫？
 <div class="hidden-print">
 <p class="lead"><a href="assets/summary.pdf"><i class="fa fa-file"></i> 要約版(印刷用)をダウンロード</a></p>
 <p class="lead"><a href="#" onclick="print();return false;"><i class="fa fa-print fa-lg"></i> このページを印刷</a></p>
-<!--<p class="lead"><a href="mailto:?subject=&body=:%20http%3A%2F%2Fnomore-hiwatashi.com" target="_blank" title="Email" onclick="window.open('mailto:?subject=' + encodeURIComponent(document.title) + '&body=' + encodeURIComponent(document.URL));
-	   return false;"><i class="fa fa-envelope-o fa-lg"></i> Emailで共有</a></p>
--->
 <p class="lead"><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fnomore-hiwatashi.com&t=" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL));
 	   return false;"><i class="fa fa-facebook-square fa-lg"></i> Facebookで共有</a></p>
 <p class="lead"><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fnomore-hiwatashi.com&text=:%20http%3A%2F%2Fnomore-hiwatashi.com" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20' + encodeURIComponent(document.URL));
