@@ -1,11 +1,11 @@
 /*
 Title: Home
-Description: あなたは樋渡啓祐を佐賀県知事に選びますか？
-Keywords: 樋渡啓祐,佐賀県知事選,佐賀県,知事選挙,評判,政策,人物,武雄市,武雄市長,樋渡けいすけ
-Jumbotron: 樋渡啓祐を佐賀県知事に選んで本当に大丈夫？
+Description: あなたは樋渡啓祐を知っていますか？
+Keywords: 樋渡啓祐,佐賀県,評判,政策,人物,武雄市,武雄市長,樋渡けいすけ
+Jumbotron: あなたは樋渡啓祐を知っていますか？
 */
 
-# TVや新聞で改革派市長として持ち上げられることの多い樋渡啓祐ですが、佐賀県知事としてふさわしい人物でしょうか。 {.lead}
+# TVや新聞で改革派市長として持ち上げられることの多い樋渡啓祐ですが、インターネット上では多くの批判があります。なぜでしょうか。 {.lead}
 
 <p class="lead text-center"><a href="#summary" class="btn btn-danger btn-lg hidden-print">実際のところ樋渡啓祐は…</a></p>
 
@@ -193,10 +193,6 @@ Jumbotron: 樋渡啓祐を佐賀県知事に選んで本当に大丈夫？
 <p class="lead"><a href="https://plus.google.com/share?url=http%3A%2F%2Fnomore-hiwatashi.com" target="_blank" title="Share on Google+" onclick="window.open('https://plus.google.com/share?url=' + encodeURIComponent(document.URL));
 	   return false;"><i class="fa fa-google-plus fa-lg"></i> Google+で共有</a></p>
 </div>
-
-自民党佐賀県連は衆院選終了までの間、樋渡啓祐 立候補予定者の推薦判断を延期することにしました。
-
-樋渡啓祐の党推薦に疑問を持たれた方は、お知り合いに自民党系議員、党員がいらっしゃいましたらその方に、または[自由民主党佐賀県連](http://www.saga-jimin.com/)へ疑問があることをお知らせください。
 
 また、ホームページやブログなどをお持ちの方は、このサイトへリンクを張っていただけると喜びます。
 
