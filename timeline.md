@@ -15,7 +15,7 @@ Keywords: 樋渡啓祐,佐賀県,評判,政策,人物,樋渡けいすけ,佐賀�
 
 樋渡啓祐を**県連が素直に推薦できない**のは何故なのでしょうか。
 
-<p class="lead text-center"><a href="/" class="btn btn-info btn-lg hidden-print">実際のところ樋渡啓祐は…</a></p>
+<p class="lead text-center"><a href="/" class="btn btn-info hidden-print">樋渡啓祐が批判される理由を見る &raquo;</a></p>
 
 ## 時系列
 
