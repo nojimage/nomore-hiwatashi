@@ -1,11 +1,13 @@
 /*
 Title: Home
-Description: あなたは樋渡啓祐を知っていますか？
-Keywords: 樋渡啓祐,佐賀県,評判,政策,人物,武雄市,武雄市長,樋渡けいすけ
-Jumbotron: あなたは樋渡啓祐を知っていますか？
+Description: TVや新聞で改革派市長として持ち上げられることの多い樋渡啓祐ですが、インターネット上では多くの批判があります。なぜでしょうか。
+Keywords: 樋渡啓祐,佐賀県知事選,佐賀県,知事選挙,評判,政策,人物,武雄市,武雄市長,ひわたし啓祐
+Jumbotron:  樋渡啓祐を佐賀県知事に選んで本当に大丈夫？
 */
 
 # TVや新聞で改革派市長として持ち上げられることの多い樋渡啓祐ですが、インターネット上では多くの批判があります。なぜでしょうか。 {.lead}
+
+この記事を全て読むのには約**20**分かかります。お急ぎの方は↓のボタンから要約をどうぞ。
 
 <p class="lead text-center"><a href="#summary" class="btn btn-danger btn-lg hidden-print">実際のところ樋渡啓祐は…</a></p>
 
@@ -132,8 +134,6 @@ Jumbotron: あなたは樋渡啓祐を知っていますか？
 
 鎌倉市での教育長の選考において、「セクハラ隠蔽の処分として文書訓告を受けていない」と嘘をつき「大臣の教育長推薦書を偽造」して、鎌倉市議会から拒否された人物[^9][^10]を教育監および市立小学校の校長に任命しています。
 
-大阪などでは民間人校長による問題も多く起きていますが、このような人物に安心して子どもを任せることができるでしょうか。
-
 [^9]: [2013年02月のブログ｜中沢克之(自民党鎌倉市会議員) オフィシャルブログ「温泉議員日記」Powered by Ameba](http://ameblo.jp/nakazawakatsuyuki/archive1-201302.html#main)
 [^10]: [中沢 克之 (自民党鎌倉市会議員)さんはTwitterを使っています: "鎌倉市議に対して、セクハラ隠蔽の処分として文書訓告を受けていないと嘘をついたのは、代田昭久氏でしたが、大臣の教育長推薦書を偽造して、自民党市議の中沢に渡したのも、同じ人物。お使いをしたのは、鎌倉市長。ここでも、本末転倒。教育も、本末転倒授業か。"](https://twitter.com/nakazawajimusho/status/450839853425377280)
 
@@ -210,6 +210,10 @@ Jumbotron: あなたは樋渡啓祐を知っていますか？
 <p class="lead"><a href="https://plus.google.com/share?url=http%3A%2F%2Fnomore-hiwatashi.com" target="_blank" title="Share on Google+" onclick="window.open('https://plus.google.com/share?url=' + encodeURIComponent(document.URL));
 	   return false;"><i class="fa fa-google-plus fa-lg"></i> Google+で共有</a></p>
 </div>
+
+自民党佐賀県連は衆院選終了までの間、樋渡啓祐 立候補予定者の推薦判断を延期することにしました。
+
+樋渡啓祐の自民党推薦に疑問を持たれた方は、お知り合いに自民党系議員、党員がいらっしゃいましたらその方に、または[自由民主党佐賀県連](http://www.saga-jimin.com/)へ疑問があることをお知らせください。
 
 また、ホームページやブログなどをお持ちの方は、このサイトへリンクを張っていただけると喜びます。
 
