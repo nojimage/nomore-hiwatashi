@@ -68,7 +68,7 @@ Jumbotron:  樋渡啓祐を佐賀県知事に選んで本当に大丈夫？
 
 さらに**意見を述べた一般市民へ暴言を吐く、権力をちらつかせ相手を萎縮させる**などの行動をしています。
 
-<p class="lead text-center"><a href="#abusive" class="btn btn-danger hidden-print">暴言などの代表例</a></p>
+<p class="text-center"><a href="#abusive" class="btn btn-danger hidden-print">暴言などの代表例</a></p>
 
 -----
 
@@ -168,7 +168,6 @@ Jumbotron:  樋渡啓祐を佐賀県知事に選んで本当に大丈夫？
 
 数多くの暴言を行っていたツイッターアカウントは佐賀県知事選に向けて削除しました。これからは**否定的な意見は排除**できるブログやフェイスブックで情報の発信を行っていくそうです。
 
-
 [^5]: [樋渡啓祐さんはTwitterを使っています: "今の君は、スネークどころかゴキブリ以下。スネークを進めるなんてまともじゃない。恥を知れ(^^ゞ RT @sakichan 誰かスネークスネーク / 2/6 武雄市長 樋渡 啓祐氏 講演会 "走りながら考え、常識をくつがえす" http://t.co/8o7LVvJb"](https://archive.today/RuGhQ)
 [^6]: [樋渡啓祐さんはTwitterを使っています: "あはは。真に受けてる。 RT @zonepotage RT @saronpasu: 「１００おくえんのべんちゃーきゃぴたるをつくるんだおー　すごいんだおー」ｂｙ けいすけくん RT @superunkman (cont) http://t.co/cOZlb2SZ"](https://archive.today/Fqm7N)
 [^7]: [武雄市の樋渡市長、ユーザーを「ひまじんうんこ」と侮辱。自ら市のガイドライン破る(篠原 修司) - 個人 - Yahoo!ニュース](http://bylines.news.yahoo.co.jp/shinoharashuji/20131231-00031166/)
@@ -195,6 +194,7 @@ Jumbotron:  樋渡啓祐を佐賀県知事に選んで本当に大丈夫？
 <p class="lead"><strong>議論ができません。理解を得る努力をしません。</strong></p>
 
 一方的な発信のみで、相手の話を聞いて対応するということが出来ません。また、[こちらの記事](http://diamond.jp/articles/-/56911?page=3)にもあるように、反対派への説明を最初からあきらめて、<strong>同調圧力によって意見を抑えようとします</strong>。
+
 
 ## 佐賀県民の方へこのサイトを共有してください
 
