@@ -35,6 +35,16 @@ contact@nomore-hiwatashi.com
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/deed.ja"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
 このサイトのコンテンツは <a rel="license" href="http://creativecommons.org/licenses/by/4.0/deed.ja">クリエイティブ・コモンズの 表示 4.0 国際 ライセンス</a>で提供します。
 
+## アクセスログ収集とその利用について
+
+本サイトではよりよいサービスの提供を目的として、Google Analyticsを用いて本サイトへのアクセス情報を収集しています。
+
+Google Analyticsではクッキー(cookie)を使用し個人を特定する情報を含まずにログを収集します。なお、収集されるログはGoogle社のプライバシーポリシーに基づいて管理されます。
+Google Analyticsについての詳細、およびGoogle社のプライバシーポリシーについては以下をご覧ください。
+
+- [Google アナリティクス公式サイト - ウェブ解析とレポート機能 – Google アナリティクス](http://www.google.com/intl/ja/analytics/)
+- [プライバシー ポリシー – ポリシーと規約 – Google](http://www.google.co.jp/intl/ja/policies/privacy/)
+
 ## 謝辞
 
 `#たけお問題`に関わっている方々、情報公開で開示された文書を共有して頂いている方々、サイト等にて情報をまとめていただいている方々のおかげで当サイトは成り立っています。本当にありがとうございます。
