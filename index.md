@@ -203,11 +203,11 @@ Jumbotron:  樋渡啓祐を佐賀県知事に選んで本当に大丈夫？
 <div class="hidden-print">
 <p class="lead"><a href="assets/summary.pdf"><i class="fa fa-file"></i> 要約版(印刷用)をダウンロード</a></p>
 <p class="lead"><a href="#" onclick="print();return false;"><i class="fa fa-print fa-lg"></i> このページを印刷</a></p>
-<p class="lead"><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fnomore-hiwatashi.com&t=" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL));
+<p class="lead"><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnomore-hiwatashi.com&t=" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL));
 	   return false;"><i class="fa fa-facebook-square fa-lg"></i> Facebookで共有</a></p>
-<p class="lead"><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fnomore-hiwatashi.com&text=:%20http%3A%2F%2Fnomore-hiwatashi.com" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20' + encodeURIComponent(document.URL));
+<p class="lead"><a href="https://twitter.com/intent/tweet?source=https%3A%2F%2Fnomore-hiwatashi.com&text=:%20https%3A%2F%2Fnomore-hiwatashi.com" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20' + encodeURIComponent(document.URL));
 	   return false;"><i class="fa fa-twitter fa-lg"></i> Twitterで共有</a></p>
-<p class="lead"><a href="https://plus.google.com/share?url=http%3A%2F%2Fnomore-hiwatashi.com" target="_blank" title="Share on Google+" onclick="window.open('https://plus.google.com/share?url=' + encodeURIComponent(document.URL));
+<p class="lead"><a href="https://plus.google.com/share?url=https%3A%2F%2Fnomore-hiwatashi.com" target="_blank" title="Share on Google+" onclick="window.open('https://plus.google.com/share?url=' + encodeURIComponent(document.URL));
 	   return false;"><i class="fa fa-google-plus fa-lg"></i> Google+で共有</a></p>
 </div>
 
