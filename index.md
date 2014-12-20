@@ -166,7 +166,7 @@ Jumbotron:  樋渡啓祐を佐賀県知事に選んで本当に大丈夫？
 - 武雄市役所に対して質問メールを行った人物に対して、**ツイッター上でその人物のイニシャルを明かした上で、「ストーカー」と発言** [^16][^17]
 - ネット上で指摘をおこなった人物に対して**その人が所属する企業名を出して反論** [^18]
 
-数多くの暴言を行っていたツイッターアカウントは佐賀県知事選に向けて削除しました。これからは**否定的な意見は排除**できるブログやフェイスブックで情報の発信を行っていくそうです。
+数多くの暴言を行っていたツイッターアカウントは佐賀県知事選への立候補に向けて削除しました。これからは**否定的な意見は排除**できるブログやフェイスブックで情報の発信を行っていくそうです。
 
 [^5]: [樋渡啓祐さんはTwitterを使っています: "今の君は、スネークどころかゴキブリ以下。スネークを進めるなんてまともじゃない。恥を知れ(^^ゞ RT @sakichan 誰かスネークスネーク / 2/6 武雄市長 樋渡 啓祐氏 講演会 "走りながら考え、常識をくつがえす" http://t.co/8o7LVvJb"](https://archive.today/RuGhQ)
 [^6]: [樋渡啓祐さんはTwitterを使っています: "あはは。真に受けてる。 RT @zonepotage RT @saronpasu: 「１００おくえんのべんちゃーきゃぴたるをつくるんだおー　すごいんだおー」ｂｙ けいすけくん RT @superunkman (cont) http://t.co/cOZlb2SZ"](https://archive.today/Fqm7N)
@@ -203,11 +203,11 @@ Jumbotron:  樋渡啓祐を佐賀県知事に選んで本当に大丈夫？
 <div class="hidden-print">
 <p class="lead"><a href="assets/summary.pdf"><i class="fa fa-file"></i> 要約版(印刷用)をダウンロード</a></p>
 <p class="lead"><a href="#" onclick="print();return false;"><i class="fa fa-print fa-lg"></i> このページを印刷</a></p>
-<p class="lead"><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fnomore-hiwatashi.com&t=" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL));
+<p class="lead"><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnomore-hiwatashi.com&t=" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL));
 	   return false;"><i class="fa fa-facebook-square fa-lg"></i> Facebookで共有</a></p>
-<p class="lead"><a href="https://twitter.com/intent/tweet?source=http%3A%2F%2Fnomore-hiwatashi.com&text=:%20http%3A%2F%2Fnomore-hiwatashi.com" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20' + encodeURIComponent(document.URL));
+<p class="lead"><a href="https://twitter.com/intent/tweet?source=https%3A%2F%2Fnomore-hiwatashi.com&text=:%20https%3A%2F%2Fnomore-hiwatashi.com" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20' + encodeURIComponent(document.URL));
 	   return false;"><i class="fa fa-twitter fa-lg"></i> Twitterで共有</a></p>
-<p class="lead"><a href="https://plus.google.com/share?url=http%3A%2F%2Fnomore-hiwatashi.com" target="_blank" title="Share on Google+" onclick="window.open('https://plus.google.com/share?url=' + encodeURIComponent(document.URL));
+<p class="lead"><a href="https://plus.google.com/share?url=https%3A%2F%2Fnomore-hiwatashi.com" target="_blank" title="Share on Google+" onclick="window.open('https://plus.google.com/share?url=' + encodeURIComponent(document.URL));
 	   return false;"><i class="fa fa-google-plus fa-lg"></i> Google+で共有</a></p>
 </div>
 
