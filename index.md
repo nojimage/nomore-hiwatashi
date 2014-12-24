@@ -233,6 +233,7 @@ Jumbotron:  樋渡啓祐を佐賀県知事に選んで本当に大丈夫？
 
 ### 政治姿勢・発言
 
+- [樋渡啓祐氏発言検索 - nantoka.com](https://www.nantoka.com/~kei/TakeoLibrary/estseek.cgi?genre7=on&genre8=on&genre9=on)
 - [樋渡啓祐氏発言引用集 - nantoka.com](https://www.nantoka.com/wiki/wiki.cgi/takeoproblem?page=%C8%F5%C5%CF%B7%BC%CD%B4%BB%E1%C8%AF%B8%C0%B0%FA%CD%D1%BD%B8)
 - [樋渡啓祐 - Wikiquote](http://ja.wikiquote.org/wiki/%E6%A8%8B%E6%B8%A1%E5%95%93%E7%A5%90)
 
