@@ -250,5 +250,17 @@ Jumbotron:  樋渡啓祐を佐賀県知事に選んで本当に大丈夫？
 - [#たけお問題 リンク #武雄市問題](http://problem.takeo-city.saga.jp/)
 - [#武雄市問題](http://takeosimondai.blogspot.jp/)
 
+## このサイトについて
+
+このサイトは、佐賀知事選立候補予定者である樋渡啓祐についての情報をまとめたサイトです。  
+
+佐賀県佐賀市在住のnojimageにより運営されています。
+
+### 連絡先
+
+Email: contact@nomore-hiwatashi.com  
+Twitter: [@nojimage](https://twitter.com/nojimage)
+
+
 ### 注釈
 
