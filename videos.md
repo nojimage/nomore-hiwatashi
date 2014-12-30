@@ -45,11 +45,6 @@ Keywords: 樋渡啓祐,佐賀県,評判,政策,人物,ひわたし啓祐,候補,
 
 [明日を問う　武雄市長選２０１５　反転授業　官民一体型学校…｜佐賀新聞LiVE](http://www.saga-s.co.jp/news/saga/10101/140990)
 
-手前味噌ですが。
-
-<blockquote class="twitter-tweet" lang="ja"><p>樋渡のブログ、Facebook、Twitter上での発言が矛盾することが多いのは、その場その場で一番都合の良い発言をしているから。よく言えば柔軟、悪く言えば信念がない。思いつきで行動する。そんな人間が結果が出るまでに時間のかかる教育政策に口を出すのは迷惑でしかない。</p>&mdash; nojimage (@nojimage) <a href="https://twitter.com/nojimage/status/546464495564894208">2014, 12月 21</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 ## 平成26年6月 武雄市議会定例会
 
 武雄市樋渡市長 議員の金銭問題疑惑を市議会で追求
