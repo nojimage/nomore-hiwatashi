@@ -65,6 +65,14 @@ Keywords: 樋渡啓祐,佐賀県,評判,政策,人物,ひわたし啓祐,候補,
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/bv94aKPLAyk" frameborder="0" allowfullscreen></iframe>
 
+## 平成25年7月 松阪市図書館シンポジウム
+
+2013/7/28に行われた松阪市図書館シンポジウムでの樋渡啓祐市長（当時）の言動です。
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/xHz-rwuSV6s" frameborder="0" allowfullscreen></iframe>
+
+[20130728 松阪市での図書館シンポジウム（樋渡市長講演など） その１ - Togetterまとめ](http://togetter.com/li/540293)
+
 ## お願い
 
 <blockquote class="twitter-tweet" lang="ja"><p><a href="https://twitter.com/hashtag/%E4%BD%90%E8%B3%80%E7%9C%8C%E7%9F%A5%E4%BA%8B%E9%81%B8?src=hash">#佐賀県知事選</a> に関連して、武雄市議会の過去動画でこれは見ておくべきというシーンがございましたら教えていただけると助かります。 <a href="https://twitter.com/hashtag/%E4%BD%90%E8%B3%80%E7%9C%8C%E7%9F%A5%E4%BA%8B%E9%81%B8%E6%8C%99?src=hash">#佐賀県知事選挙</a> <a href="https://twitter.com/hashtag/%E3%81%9F%E3%81%91%E3%81%8A%E5%95%8F%E9%A1%8C?src=hash">#たけお問題</a></p>&mdash; nojimage (@nojimage) <a href="https://twitter.com/nojimage/status/549953451870789632">2014, 12月 30</a></blockquote>
