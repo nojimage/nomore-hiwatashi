@@ -241,8 +241,10 @@ Jumbotron:  樋渡啓祐を佐賀県知事に選んで本当に大丈夫？
 ### 樋渡啓祐自身が更新しているサイト
 - [武雄市長物語](http://hiwa1118.exblog.jp/ "武雄市長物語")
 - [樋渡 啓祐 | Facebook](https://www.facebook.com/keisuke.hiwatashi.9)
-- [樋渡啓祐(@hiwa1118)さん | Twitter](https://twitter.com/hiwa1118) (※知事選出馬に向け削除されました)   
-  [『武雄市長 日本ツイッター学会長　樋渡啓祐 (hiwa111...』 の人気エントリー - はてなブックマーク](http://b.hatena.ne.jp/entrylist?sort=count&url=http%3A%2F%2Ftwitter.com%2Fhiwa1118) （※注目の発言がわかります）
+- [樋渡啓祐(@hiwa1118)さん | Twitter](https://twitter.com/hiwa1118)   
+  ※知事選出馬に向け削除されました。その後非公開・過去ツイート削除で復活しています。[参考](http://anond.hatelabo.jp/20141230155153)   
+  [『武雄市長 日本ツイッター学会長　樋渡啓祐 (hiwa111...』 の人気エントリー - はてなブックマーク](http://b.hatena.ne.jp/entrylist?sort=count&url=http%3A%2F%2Ftwitter.com%2Fhiwa1118)   
+  ※ツイッターで注目/問題視されていた発言がわかります
 
 ### 武雄市に関する情報
 - [佐賀県武雄市の問題について：takeoproblem](https://sites.google.com/site/takeoproblem/)
@@ -250,6 +252,7 @@ Jumbotron:  樋渡啓祐を佐賀県知事に選んで本当に大丈夫？
 - [樋渡啓祐に関連する264件のまとめ - Togetterまとめ](http://togetter.com/t/%E6%A8%8B%E6%B8%A1%E5%95%93%E7%A5%90)
 - [#たけお問題 リンク #武雄市問題](http://problem.takeo-city.saga.jp/)
 - [#武雄市問題](http://takeosimondai.blogspot.jp/)
+- [#樋渡啓祐 元武雄市長の政策を振り返る #元市長が忘れたい政策 ～ #佐賀県知事選 - Togetterまとめ](http://togetter.com/li/765180)
 
 ## このサイトについて
 
