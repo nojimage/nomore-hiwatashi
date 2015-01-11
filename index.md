@@ -195,26 +195,6 @@ Jumbotron:  樋渡啓祐を佐賀県知事に選んで本当に大丈夫？
 
 一方的な発信のみで、相手の話を聞いて対応するということが出来ません。また、[こちらの記事](http://diamond.jp/articles/-/56911?page=3)にもあるように、反対派への説明を最初からあきらめて、<strong>同調圧力によって意見を抑えようとします</strong>。
 
-
-## 佐賀県民の方へこのサイトを共有してください
-
-年配者の方、普段ネットに触れる機会の少ない方は樋渡啓祐候補がどういう人物か、TVや新聞などマスメディアが伝える印象でしか知らない方が多くいます。私は、多くの方に樋渡啓祐候補について興味を持ってもらい、少しでもいいから調べてもらいたいと思っています。
-
-<div class="hidden-print">
-<p class="lead"><a href="assets/summary.pdf"><i class="fa fa-file"></i> 要約版(印刷用)をダウンロード</a></p>
-<p class="lead"><a href="#" onclick="print();return false;"><i class="fa fa-print fa-lg"></i> このページを印刷</a></p>
-<p class="lead"><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fnomore-hiwatashi.com&t=" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' + encodeURIComponent(document.URL) + '&t=' + encodeURIComponent(document.URL));
-	   return false;"><i class="fa fa-facebook-square fa-lg"></i> Facebookで共有</a></p>
-<p class="lead"><a href="https://twitter.com/intent/tweet?source=https%3A%2F%2Fnomore-hiwatashi.com&text=:%20https%3A%2F%2Fnomore-hiwatashi.com" target="_blank" title="Tweet" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title) + ':%20' + encodeURIComponent(document.URL));
-	   return false;"><i class="fa fa-twitter fa-lg"></i> Twitterで共有</a></p>
-<p class="lead"><a href="https://plus.google.com/share?url=https%3A%2F%2Fnomore-hiwatashi.com" target="_blank" title="Share on Google+" onclick="window.open('https://plus.google.com/share?url=' + encodeURIComponent(document.URL));
-	   return false;"><i class="fa fa-google-plus fa-lg"></i> Google+で共有</a></p>
-</div>
-
-樋渡啓祐候補の自民党推薦に疑問を持たれた方は、お知り合いに自民党系議員、党員がいらっしゃいましたらその方に、または[自民党本部](https://ssl.jimin.jp/m/contact)へ疑問があることをお知らせください。
-
-また、ホームページやブログなどをお持ちの方は、このサイトへリンクを張っていただけると喜びます。
-
 ## このサイトの記事一覧
 
 - [動画でみる ひわたし啓祐候補](./videos) - 2014/12/31
