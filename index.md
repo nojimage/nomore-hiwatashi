@@ -68,6 +68,60 @@ Robots: index,follow
 
 歳入が増えればその分歳出も増え、公共事業により地元経済が潤い税収に反映されるはずですが、そのようなことはないようです。
 
+## 地方債残高
+
+樋渡啓祐氏は「**市長就任時400億円の借金を5年間で100億円返した**」[^1]と、よく発言されています。実際の数字を見てみましょう。
+
+<div class="row">
+<iframe class="col-md-offset-2 col-md-8" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/15fqI14yn3hyotSRc3igMKtfIURr68geO2SUvKvLSDew/pubchart?oid=873898730&amp;format=interactive"></iframe>
+</div>
+
+データ: [武雄市 普通会計決算カード、財政状況一覧、財政状況資料集](http://www.city.takeo.lg.jp/shisei/yosan/index.html)
+[データシート](https://docs.google.com/spreadsheets/d/15fqI14yn3hyotSRc3igMKtfIURr68geO2SUvKvLSDew/pubhtml)
+
+「**市長就任時400億円の借金**」の根拠は、2005年度末時点での武雄市の一般会計における「地方債現在高」から「臨時財政対策債」を除いた約220億円と、水道事業、市民病院徐業等の公営企業会計等企業債 約189億円を合算した**約409億円**のことだと考えられます。
+
+その推移をみてみると、2010年度末時点で約316億円と市長就任5年で約93億円の返済に成功しています。
+
+しかし、上記数字には「臨時財政対策債」が含まれていません。「臨時財政対策債」については常に増加傾向にあり、2005年度末の約40億円から2013年度末には83億円と倍増しています。
+約43億円ほど別の公債に付け替えることで、見た目の数字をごまかしているようです。
+
+それでも**8年間で約50億円の地方債を返済**しているので、この部分については樋渡市政を評価すべきところでしょう。
+
+### 将来にわたる実質的な財政負担
+
+債務についてもう一つの指標として、「地方債現在高」および「債務負担行為額」を合算したものから「積立金現在高」を減算した「**将来にわたる実質的な財政負担額**」という指標があります。こちらの推移を示します。
+
+
+<div class="row">
+<iframe class="col-md-offset-2 col-md-8" width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/15fqI14yn3hyotSRc3igMKtfIURr68geO2SUvKvLSDew/pubchart?oid=690066465&amp;format=interactive"></iframe>
+</div>
+
+データ: [武雄市 普通会計決算カード](http://www.city.takeo.lg.jp/shisei/yosan/index.html)
+[データシート](https://docs.google.com/spreadsheets/d/15fqI14yn3hyotSRc3igMKtfIURr68geO2SUvKvLSDew/pubhtml)
+
+こちらも、2013年度末が若干増加傾向にあるものも、2005年度末の約186億円から2013年度末では約153億円と約33億円減らしています。
+
+さらに、上記グラフに「公営企業会計等企業債」の数字を積み上げると下図のようになります。
+
+<div class="row">
+<iframe class="col-md-offset-2 col-md-8"  width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/15fqI14yn3hyotSRc3igMKtfIURr68geO2SUvKvLSDew/pubchart?oid=732290970&amp;format=interactive"></iframe>
+</div>
+
+
+### 職員数の推移
+
+<div class="row">
+<iframe class="col-md-offset-2 col-md-8"  width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/15fqI14yn3hyotSRc3igMKtfIURr68geO2SUvKvLSDew/pubchart?oid=1879501188&amp;format=interactive"></iframe>
+</div>
+
+データ: [武雄市 普通会計決算カード](http://www.city.takeo.lg.jp/shisei/yosan/index.html)
+[データシート](https://docs.google.com/spreadsheets/d/15fqI14yn3hyotSRc3igMKtfIURr68geO2SUvKvLSDew/pubhtml)
+
+債務を減らした一つの要因として、人件費の削減を行ったといわれています。武雄市では、上記グラフのように2005年度末 409人から2013年度末 341人と約17％の人員削減を行っています。
+
+なお、この人員削減が原因であるか不明ですが、行政情報公開制度の運用において著しい遅延が発生するなど、行政サービスの低下がおこっています。
+
 ## 樋渡啓祐氏が行った施策の成否について
 
 樋渡啓祐氏いわく「批判に耐えられないものは残らない」ということなので、素晴らしい氏の施策の数々は多く残っているはずです。
@@ -121,3 +175,4 @@ Robots: index,follow
 
 [^seika]:[「感情ではなく数字を基に経営すれば、成果は数字で表れる」---樋渡・武雄市長が講演 | nikkei BPnet 〈日経BPネット〉](http://www.nikkeibp.co.jp/article/column/20141030/422383/)
 
+[^1]:[野田総理、順序が逆でしょ : 樋渡啓祐物語（2005年５月ｰ2015年２月）](http://hiwa1118.exblog.jp/14890254/)
